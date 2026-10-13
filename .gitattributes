@@ -1,0 +1,6 @@
+*.ipynb -text
+*.csv -text
+*.png binary
+*.jpg binary
+*.zip binary
+*.xlsx binary
