@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*.py
+!requirements.txt
+!README.md
+!figures/
+figures/*
+!figures/trust-coding.png

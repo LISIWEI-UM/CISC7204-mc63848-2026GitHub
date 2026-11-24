@@ -4,11 +4,13 @@
 
 ## Assignment 01
 
-[King County house sales](cisc7204-Assgn01-2026-mc63848/king-county/README.md) revisits the final housing lab. The portfolio edition compares three models on the same held-out sales and documents its changes to the original notebook's preprocessing.
+- **Pair research:** [Judicial trust in China](cisc7204-Assgn01-2026-mc63848/judicial-trust/README.md). The preliminary proposal connects two CGSS waves. This folder presents LI Siwei’s Python contribution.
+- **Individual Module 06 lab:** [King County house sales](cisc7204-Assgn01-2026-mc63848/king-county/README.md). The portfolio edition compares three models on the same held-out sales.
 
 ## Assignment 02
 
-[Open the data visualization assignment](cisc7204-Assgn02-2026-mc63848/README.md)
+- **Pair research:** [Revised judicial trust proposal](https://lisiwei-um.github.io/data-science-portfolio/projects/judicial-trust/#assignment-02). This phase extends the measurement work to media use, governance investment and procedural experience.
+- **Individual modules:** [Open the data visualization labs](cisc7204-Assgn02-2026-mc63848/README.md), including the final automobile sales notebook and dashboard.
 
 The assignment is archived in the folder required by the course:
 `cisc7204-Assgn02-2026-mc63848`.

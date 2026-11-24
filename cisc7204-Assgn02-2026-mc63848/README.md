@@ -10,6 +10,8 @@ Pandas, Matplotlib, Seaborn, WordCloud, PyWaffle, Folium, Plotly and Dash.
 
 ## Modules
 
+These five modules cover my individual labs. For the pair component, our [Assignment 02 revised proposal](https://lisiwei-um.github.io/data-science-portfolio/projects/judicial-trust/#assignment-02) extends the CGSS judicial trust study started in Assignment 01. My [Python contribution](../cisc7204-Assgn01-2026-mc63848/judicial-trust/README.md) covers cleaning, pooling, validation against Stata and visualization.
+
 | Module | Content | Labs | Screenshots |
 |---|---|---:|---:|
 | 01 | [Pandas preprocessing and line plots](module01/README.md) | 2 | 9 |
