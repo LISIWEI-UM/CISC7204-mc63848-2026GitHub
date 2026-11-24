@@ -1,0 +1,103 @@
+{
+  "input_sha256": "6ce974df424ab9faf186f766a8fd93468ce7597767cb0df173889dcb3d2da928",
+  "sales": 21613,
+  "distinct_property_ids": 21436,
+  "first_sale": "2014-05-02",
+  "last_sale": "2015-05-27",
+  "train_sales": 18371,
+  "test_sales": 3242,
+  "property_ids_in_both_splits": 38,
+  "missing_feature_counts": {
+    "bedrooms": 13,
+    "bathrooms": 10
+  },
+  "size_groups": [
+    {
+      "area": 940.0,
+      "median": 290000.0,
+      "lower": 212925.0,
+      "upper": 383166.0,
+      "sales": 2200
+    },
+    {
+      "area": 1220.0,
+      "median": 338900.0,
+      "lower": 250000.0,
+      "upper": 439975.0,
+      "sales": 2159
+    },
+    {
+      "area": 1430.0,
+      "median": 366500.0,
+      "lower": 268000.0,
+      "upper": 460625.0,
+      "sales": 2192
+    },
+    {
+      "area": 1620.0,
+      "median": 405000.0,
+      "lower": 290000.0,
+      "upper": 523250.0,
+      "sales": 2126
+    },
+    {
+      "area": 1810.0,
+      "median": 410000.0,
+      "lower": 305000.0,
+      "upper": 537500.0,
+      "sales": 2143
+    },
+    {
+      "area": 2020.0,
+      "median": 448750.0,
+      "lower": 330000.0,
+      "upper": 578887.5,
+      "sales": 2158
+    },
+    {
+      "area": 2260.0,
+      "median": 500000.0,
+      "lower": 370500.0,
+      "upper": 645250.0,
+      "sales": 2223
+    },
+    {
+      "area": 2556.0,
+      "median": 575000.0,
+      "lower": 429900.0,
+      "upper": 722500.0,
+      "sales": 2108
+    },
+    {
+      "area": 2970.0,
+      "median": 690500.0,
+      "lower": 525000.0,
+      "upper": 848875.0,
+      "sales": 2143
+    },
+    {
+      "area": 3760.0,
+      "median": 948000.0,
+      "lower": 750000.0,
+      "upper": 1365000.0,
+      "sales": 2161
+    }
+  ],
+  "models": [
+    {
+      "model": "Living area only",
+      "test_r2": 0.4910058627910614,
+      "test_mae_usd": 174798.78113091522
+    },
+    {
+      "model": "11 features, linear Ridge",
+      "test_r2": 0.6478838150506463,
+      "test_mae_usd": 135856.8663805286
+    },
+    {
+      "model": "11 features, degree-2 Ridge",
+      "test_r2": 0.7117274529884676,
+      "test_mae_usd": 118490.11509766281
+    }
+  ]
+}
